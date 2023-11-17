@@ -1,5 +1,4 @@
 # Project-Designs
-Figma links of app/project designs
 ---
 ### 1. Design project from HCI (Human Computer Interactions) course : Sherican Courses App
 #### Description
