@@ -6,6 +6,13 @@
 * Dog walking service app. 
 * A design for the developement of a mobile app for busy dog owners to efficiently request service from a dog walker.
 * This project was worked on with one other student for the course PROG20261 Mobile Web Application Development.
+<br></br>
+
+* Contribution:
+  * App design and theme
+  * Navigational functions and the placements on a page/screen
+* Explored and expanded knowledge of user experience through the importance of navigational functions (i.e. buttons and side menus).
+* Improvements that can be added are to have a dark mode option, and adding a in-app chatting option rather than a direct link to user's emails.
 
 Figma link to app design: [WoofnWalk](https://www.figma.com/file/iQpZCJZq6E0dPYa5QY6ay9/PROG20261-Woof-n-Walk?type=design&node-id=0%3A1&mode=design&t=VnMRycga4iINPinc-1)
 
