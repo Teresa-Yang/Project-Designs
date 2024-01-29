@@ -1,14 +1,5 @@
 # Project-Designs
 ---
-### 1. Design project from HCI (Human Computer Interactions) course : Sherican Courses App
-#### Description
-* Sheridan Courses in an app. 
-  It is made for students of all ages who attend Sheridan College who would like to see their courses contents and be able to chat with their peers/professors on a mobile device.
-* This was made with the consideration of user-centric design and principals along with the business requirements of the app.
-
-Full GitHub documentation: [SheridanCoursesApp](https://github.com/Teresa-Yang/SheridanCoursesApp)
-
----
 
 ### 2. App development project : WoofnWalk
 #### Description
@@ -17,6 +8,16 @@ Full GitHub documentation: [SheridanCoursesApp](https://github.com/Teresa-Yang/S
 * This project was worked on with one other student for the course PROG20261 Mobile Web Application Development.
 
 Figma link to app design: [WoofnWalk](https://www.figma.com/file/iQpZCJZq6E0dPYa5QY6ay9/PROG20261-Woof-n-Walk?type=design&node-id=0%3A1&mode=design&t=VnMRycga4iINPinc-1)
+
+---
+
+### 1. Design project from HCI (Human Computer Interactions) course : Sherican Courses App
+#### Description
+* Sheridan Courses in an app. 
+  It is made for students of all ages who attend Sheridan College who would like to see their courses contents and be able to chat with their peers/professors on a mobile device.
+* This was made with the consideration of user-centric design and principals along with the business requirements of the app.
+
+Full GitHub documentation: [SheridanCoursesApp](https://github.com/Teresa-Yang/SheridanCoursesApp)
 
 ---
 
